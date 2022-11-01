@@ -10,5 +10,3 @@ We train researchers to produce high quality and sustainable software. And what 
 * [🐛 Find good first issues on github to start contributing](https://github.com/issues?q=is%3Aissue+is%3Aopen+archived%3Afalse+sort%3Aupdated-desc+label%3A%22good+first+issue%22+org%3Ahsf-training)
 
 Please also visit the organization of our friends and sponsors, [IRIS-HEP](https://github.com/iris-hep).
-
-<a href="https://github.com/issues?q=is%3Aissue+is%3Aopen+archived%3Afalse+sort%3Aupdated-desc+label%3Ahacktoberfest+org%3Ahsf-training+org%3Ascikit-hep+org%3Ahsf"><img src="profile/assets/Hfest-Logo-2-Color-Void@2x.png/" width="500px"></a>
