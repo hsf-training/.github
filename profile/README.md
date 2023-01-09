@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/hsftraining?style=social)](https://twitter.com/hsftraining)
 
-We train researchers to produce high quality and sustainable software. And what better way to show them than by creating high quality and sustainable training material?
+We train researchers in High Energy Physics to produce high quality and sustainable software. And what better way to show them than by creating high quality and sustainable training material?
 
 * [🎓 Check out all of our lessons at the HSF Training Center](https://hepsoftwarefoundation.org/training/curriculum.html)
 * [📅 Browse upcoming training events from HSF Training and beyond](https://hepsoftwarefoundation.org/Schools/events.html)
