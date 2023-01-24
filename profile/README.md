@@ -1,6 +1,6 @@
 # Welcome to HSF Training 🤗
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/hsftraining?style=social)](https://twitter.com/hsftraining)
+[![Twitter Follow](https://img.shields.io/badge/follow-%40hsftraining-1DA1F2?logo=twitter&style=social)](https://twitter.com/hsftraining)
 
 We train researchers in High Energy Physics to produce high quality and sustainable software. And what better way to show them than by creating high quality and sustainable training material?
 
